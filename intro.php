@@ -9,6 +9,9 @@
     <?php 
     
         echo "Hello World";
+        print "Hello world using print";
+        $var_idnum=7100139;
+        print $var_idnum;
     
     ?>
     
