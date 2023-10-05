@@ -6,6 +6,8 @@
     <title>Contstants</title>
 </head>
 <body>
-    
+    <?php 
+        define 
+    ?>
 </body>
 </html>

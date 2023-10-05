@@ -13,6 +13,24 @@
         echo $int_var;
         echo "<br>";
         echo $another_int;
+
+        echo $int_var;
+        echo "<br>";
+        echo $another_int;
+
+        echo $int_var;
+        echo "<br>";
+        echo $another_int;
+        
+        echo $int_var;
+        echo "<br>";
+        echo $another_int;
+
+        echo $int_var;
+        echo "<br>";
+        echo $another_int;
+
+        echo "blah blah";
     ?>
     
 </body>
